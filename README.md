@@ -6,5 +6,8 @@ This is a simple calculator application built using Python, based on concepts le
 - Performs Multipliation
 - Performs Division
 - User-friendly input system
+## OUTPUT SCREENSHOT
+![Calculator Output](output.png)
+
 ## AUTHOR
 Lavanya Solanki
