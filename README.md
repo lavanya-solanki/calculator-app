@@ -11,3 +11,18 @@ This is a simple calculator application built using Python, based on concepts le
 
 ## AUTHOR
 Lavanya Solanki
+
+## NUMBER GUESSING GAME 
+This is a simple number guessing game built using Python.
+## FEATURES
+- Random number between 1 to 100
+- 5 chances to guess the number
+- Shows hint like "TOO HIGH" or "TOO LOW"
+- Play again option available
+## HOW TO RUN:
+Run the file 'number guessing game.py' in python
+## OUTPUT SCREENSHOT 
+![Game Output](outputnumber.png)
+
+## AUTHOR
+Lavanya Solanki
