@@ -26,3 +26,16 @@ Run the file 'number guessing game.py' in python
 
 ## AUTHOR
 Lavanya Solanki
+
+## NUMBER SORTING TOOL
+A simple Python program that takes multiple numbers as input and sorts them in ascending or descending order based on user choice.
+## FEATURES
+- Accepts multiple inputs from user
+- Sorts numbers in ascending order
+- Sorts numbers in descending order
+- Easy and beginner-friendly
+## OUTPUT SCREENSHOT
+![Sorting Output](sortingoutput.png)
+## AUTHOR 
+Lavanya Solanki
+
